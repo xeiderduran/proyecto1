@@ -1,0 +1,53 @@
+body
+{
+  background-color:gray
+}
+footer
+{
+  margin-top:30px
+}
+img
+{
+  border-radius:10px
+}
+#indice
+{
+
+}
+#contenedor
+{
+  font-family: helvetica
+  font-size:16px
+}
+#encabezado
+{
+  display: block;
+  margin: 0:auto;
+
+}
+itemindice
+{
+  list-style-type: upper-roman;
+}
+.enlace
+{
+  color: red
+}
+*{
+margin: 2vh 2vw
+}
+h1+h2
+{
+  text-decoration: underline;
+}
+video{
+  width: 80%;
+  height-max:60%;
+}
+fieldset{
+  border: solid 4px black;
+width: 100%;
+}
+audio{
+  border: solid 4px black;
+}
